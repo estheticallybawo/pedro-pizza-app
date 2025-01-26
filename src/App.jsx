@@ -10,17 +10,17 @@ const App = () => {
       <Pizza
         name="Pepperoni"
         description="Mozzarella Cheese, Pepperoni"
-        image={"/pizzas/pepperoni.webp"}
+        image={"/public/pizzas/pepperoni.webp"}
       />
       <Pizza
         name="The Hawaiian Pizza"
         description="Sliced Ham, Pineapple, Mozzarella Cheese"
-        image={"/pizzas/hawaiian.webp"}
+        image={"/public/pizzas/hawaiian.webp"}
       />
       <Pizza
         name="The Big Meat Pizza"
         description="Bacon, Pepperoni, Italian Sausage, Chorizo Sausage"
-        image={"/pizzas/big_meat.webp"}
+        image={"/public/pizzas/big_meat.webp"}
       />
     </div>
   );
